@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: eedc840f97307594a99279ed89f487e2
+timeCreated: 1527189970
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pasted__pasted__pasted__pCube12
+    100004: pasted__pasted__pCube11
+    100006: pasted__pasted__pCube2
+    100008: pCube10
+    100010: pCube11
+    100012: polySurface86
+    400000: //RootNode
+    400002: pasted__pasted__pasted__pCube12
+    400004: pasted__pasted__pCube11
+    400006: pasted__pasted__pCube2
+    400008: pCube10
+    400010: pCube11
+    400012: polySurface86
+    2100000: gray
+    2100002: silver
+    2100004: orange_wall
+    2100006: light_tiles
+    2100008: white_stone
+    2100010: lambert1
+    2100012: gray_metal
+    2300000: pasted__pasted__pasted__pCube12
+    2300002: pasted__pasted__pCube11
+    2300004: pasted__pasted__pCube2
+    2300006: pCube10
+    2300008: pCube11
+    2300010: polySurface86
+    3300000: pasted__pasted__pasted__pCube12
+    3300002: pasted__pasted__pCube11
+    3300004: pasted__pasted__pCube2
+    3300006: pCube10
+    3300008: pCube11
+    3300010: polySurface86
+    4300000: pasted__pasted__pCube2
+    4300002: polySurface86
+    4300004: pCube10
+    4300006: pCube11
+    4300008: pasted__pasted__pCube11
+    4300010: pasted__pasted__pasted__pCube12
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gray
+    second: {fileID: 2800000, guid: 0aded88af103d09439647c699643c224, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: light silver
+    second: {fileID: 2800000, guid: 75c8860c3c1767543992a853adea4a48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: orange
+    second: {fileID: 2800000, guid: 73eb3f6e347cf2d44a265e5e70429393, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: silver metal
+    second: {fileID: 2800000, guid: 387fec3ed5d445848b27397ad7f933b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2800000, guid: 90f8bdd33f4e4ab4e8c9122182387b11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: white tiles
+    second: {fileID: 2800000, guid: 644b1044f4f2ae24e87b0c46d243bcbd, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

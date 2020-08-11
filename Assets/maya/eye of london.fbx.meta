@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 69aa349303cbe25438e4c0f6c2f8ca51
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group24_pasted__pCylinder4
+    100004: middle_piece
+    100006: pasted__pCylinder1
+    100008: polySurface2
+    100010: pTorus2
+    100012: pTorus3
+    100014: pTorus4
+    100016: pTorus5
+    100018: sigsag_steel
+    100020: string_wheels
+    400000: //RootNode
+    400002: group24_pasted__pCylinder4
+    400004: middle_piece
+    400006: pasted__pCylinder1
+    400008: polySurface2
+    400010: pTorus2
+    400012: pTorus3
+    400014: pTorus4
+    400016: pTorus5
+    400018: sigsag_steel
+    400020: string_wheels
+    2100000: black_metal
+    2100002: white_center_legs
+    2100004: gray_pods
+    2300000: group24_pasted__pCylinder4
+    2300002: middle_piece
+    2300004: polySurface2
+    2300006: pTorus2
+    2300008: pTorus3
+    2300010: pTorus4
+    2300012: pTorus5
+    2300014: sigsag_steel
+    2300016: string_wheels
+    3300000: group24_pasted__pCylinder4
+    3300002: middle_piece
+    3300004: polySurface2
+    3300006: pTorus2
+    3300008: pTorus3
+    3300010: pTorus4
+    3300012: pTorus5
+    3300014: sigsag_steel
+    3300016: string_wheels
+    4300000: pTorus2
+    4300002: pTorus3
+    4300004: pTorus4
+    4300006: pTorus5
+    4300008: middle_piece
+    4300010: string_wheels
+    4300012: sigsag_steel
+    4300014: polySurface2
+    4300016: group24_pasted__pCylinder4
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_metal
+    second: {fileID: 2100000, guid: ccb3a973ed66b6f4c9250ba259ea8d5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gray_pods
+    second: {fileID: 2100000, guid: 53e328b7325b9284a814db9a7d89b3e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_center_legs
+    second: {fileID: 2100000, guid: b7c330aa70f2b61409319d5a0b3a193f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2800000, guid: 51c39cd826ec9f14a818b9a84da7c2c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2800000, guid: 6ce02fe1149124b4e993ba8a94b1b1e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2800000, guid: 1906e1a5fe4fe60408b8583bccda8e5e, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
